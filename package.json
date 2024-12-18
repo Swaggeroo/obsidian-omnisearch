@@ -31,13 +31,13 @@
     "obsidian": "1.5.7-1",
     "prettier": "^2.8.8",
     "prettier-plugin-svelte": "^2.10.1",
-    "svelte": "^3.59.2",
+    "svelte": "^4.2.19",
     "svelte-check": "^2.10.3",
     "svelte-jester": "^2.3.2",
     "svelte-preprocess": "^4.10.7",
     "tslib": "2.3.1",
     "typescript": "^4.9.5",
-    "vite": "^3.2.10"
+    "vite": "^3.2.11"
   },
   "dependencies": {
     "cancelable-promise": "^4.3.1",
